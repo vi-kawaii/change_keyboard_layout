@@ -1,0 +1,1 @@
+g++ src/main.cpp -o change_keyboard_layout.exe
